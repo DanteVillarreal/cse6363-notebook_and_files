@@ -1,5 +1,5 @@
 in order to run the inference notebook, aka the "demo" notebook, 
-- you need to download the saved_models.zip file and then paste it into the files in the inference notebook. 
+- you need to download the saved_models.zip file located in the "inference_notebook" folder and then paste it into the files in the inference notebook. 
 - you also need to upload a resume and a job description. 
 - create an "uploads" folder and paste your resume and job description in there. it has to be .txt, .pdf, .docx
 - the resume has to say "resume" in it
